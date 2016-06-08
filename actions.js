@@ -1,5 +1,4 @@
 $(document).ready(function () {
-    // newDiv();
 });
 
 var objects = 0;
