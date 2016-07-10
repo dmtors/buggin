@@ -45,7 +45,7 @@ function calcSpeed(prev, next) {
     return speed;
 }
 
-$("#object").mousedown(function(event){
+$("#object").mousedown(function(event) {
     $(event.target).removeClass("a");
     $(event.target).addClass("b");
     objects--;
